@@ -1,3 +1,4 @@
+# public-data-analysis
 
 Repositório dedicado a projetos de análise de dados utilizando exclusivamente Python e bases de dados públicas. Este portfólio tem como objetivo documentar análises exploratórias, gerar insights a partir de dados reais e demonstrar a aplicação prática de técnicas analíticas em diferentes contextos.
 
